@@ -1,5 +1,8 @@
 # SeleniumTest
 
+To run Test : Please select run settings file : Test--> Configure Run Settings-->Select solutions wide run settings -->CodingDemoTFL-->test.runsettings
+Then from Test explorer, select any test to run
+
 **Consideration**
 
 Used tube as a preference to search results in all the tests
